@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(puts)
+int main(void)
 
 {
 
