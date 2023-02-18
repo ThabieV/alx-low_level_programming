@@ -1,12 +1,13 @@
 #include <stdio.h>
 
+/**
+ *main- main funtion
+ *
+ *Return: 0
+ */
+
 int main(void)
-
 {
-
-	const char* str = ("\"Programming is like building a multilingual puzzle"\n);
-	
-	puts(str);
-	
-	return(0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
